@@ -3,12 +3,12 @@ entries:
   nginx:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-04-09T19:01:49.460943196+05:30"
+    created: "2025-04-09T19:39:25.633106627+05:30"
     description: A Helm chart for Kubernetes
     digest: 550d3dc42d2841dad99e6f54541a53627dab3ceb4493a93849230d43fdb7d48b
     name: nginx
     type: application
     urls:
-    - https://amithpn.github.io/hrepo/nginx-0.1.0.tgz
+    - https://Amithpn.github.io/hrepo/nginx-0.1.0.tgz
     version: 0.1.0
-generated: "2025-04-09T19:01:49.460419431+05:30"
+generated: "2025-04-09T19:39:25.632570741+05:30"
